@@ -1,0 +1,2 @@
+C:\msys64\mingw64\bin\ar.exe qc libdependences.a CMakeFiles/dependences.dir/transport.cpp.obj CMakeFiles/dependences.dir/car.cpp.obj CMakeFiles/dependences.dir/train.cpp.obj CMakeFiles/dependences.dir/express.cpp.obj
+C:\msys64\mingw64\bin\ranlib.exe libdependences.a

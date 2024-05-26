@@ -1,0 +1,6 @@
+C:/Users/sysoe/Downloads/Aladin/lab7/build/CMakeFiles/lab7.dir
+C:/Users/sysoe/Downloads/Aladin/lab7/build/CMakeFiles/edit_cache.dir
+C:/Users/sysoe/Downloads/Aladin/lab7/build/CMakeFiles/rebuild_cache.dir
+C:/Users/sysoe/Downloads/Aladin/lab7/build/dependences/CMakeFiles/dependences.dir
+C:/Users/sysoe/Downloads/Aladin/lab7/build/dependences/CMakeFiles/edit_cache.dir
+C:/Users/sysoe/Downloads/Aladin/lab7/build/dependences/CMakeFiles/rebuild_cache.dir
